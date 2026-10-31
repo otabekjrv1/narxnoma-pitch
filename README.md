@@ -6,6 +6,8 @@ ULUGBEK SQUAD · Lumora IT Case, Tashkent · Case D "Smart Market Prices" · 31 
 |---|---|---|
 | Pitch deck (10 slides) | https://otabekjrv1.github.io/narxnoma-pitch/ | [index.html](index.html) |
 | Deck as PDF | https://otabekjrv1.github.io/narxnoma-pitch/Narxnoma-pitch.pdf | [Narxnoma-pitch.pdf](Narxnoma-pitch.pdf) |
+| Deck in Uzbek (taqdimot, o‘zbekcha) | https://otabekjrv1.github.io/narxnoma-pitch/uz.html | [uz.html](uz.html) |
+| Uzbek deck as PDF | https://otabekjrv1.github.io/narxnoma-pitch/Narxnoma-taqdimot-uz.pdf | [Narxnoma-taqdimot-uz.pdf](Narxnoma-taqdimot-uz.pdf) |
 | Rehearsal page: lines per person, 3:00 stopwatch, jury Q&A | https://otabekjrv1.github.io/narxnoma-pitch/rehearsal.html | [rehearsal.html](rehearsal.html) |
 | Pitch script | | [docs/script.md](docs/script.md) |
 | Jury Q&A, full answers | | [docs/qa.md](docs/qa.md) |
